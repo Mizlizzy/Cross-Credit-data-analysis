@@ -14,6 +14,6 @@ Total_Trans_Ct: The total number of transactions made by the cardholder within a
 Avg_Open_To_Buy: The average amount of credit available for the cardholder to use.
 Total_Ct_Chng_Q4_Q1: The percentage change in the total number of transactions from the fourth quarter (Q4) to the first quarter (Q1) of the year.
 Avg_Utilization_Ratio: The average ratio of the total revolving balance to the credit limit across all credit card accounts. It is a measure of how much of the available credit the cardholder is using.
-#Analysis
+# Analysis
 ![image](https://github.com/Mizlizzy/Cross-Credit-data-analysis/assets/125541494/de0f1080-2a1b-480c-bb56-44eaa215e867)
 # Recommendation

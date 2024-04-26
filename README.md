@@ -16,4 +16,3 @@ Total_Ct_Chng_Q4_Q1: The percentage change in the total number of transactions f
 Avg_Utilization_Ratio: The average ratio of the total revolving balance to the credit limit across all credit card accounts. It is a measure of how much of the available credit the cardholder is using.
 # Analysis
 ![image](https://github.com/Mizlizzy/Cross-Credit-data-analysis/assets/125541494/de0f1080-2a1b-480c-bb56-44eaa215e867)
-# Recommendation

@@ -25,6 +25,7 @@ Existing Customer vs. Attrited Customer: With 83.93% existing customers and 16.0
 Gender Distribution: The female gender distribution of 52.91% suggests a relatively balanced customer base in terms of gender. Tailoring marketing strategies and product offerings to cater to diverse customer segments can enhance overall customer satisfaction and loyalty.
 The average months on book by card category are as follows: Platinum: The highest average months on book. Blue: The second highest average months on book. Silver: The lowest average months on book.
 This indicates that customers with platinum cards tend to have a longer association or tenure with the card compared to blue and silver cardholders. It's essential to analyze the reasons behind this difference, such as benefits, rewards, and customer satisfaction levels
+
 In summary, it's recommended to continue monitoring and analyzing these key metrics to identify opportunities for improving customer experience, optimizing services, and driving business growth. Implementing data-driven strategies and personalized approaches can contribute to long-term customer satisfaction and loyalty.
 
 

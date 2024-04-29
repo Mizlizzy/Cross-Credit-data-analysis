@@ -14,5 +14,20 @@ Total_Trans_Ct: The total number of transactions made by the cardholder within a
 Avg_Open_To_Buy: The average amount of credit available for the cardholder to use.
 Total_Ct_Chng_Q4_Q1: The percentage change in the total number of transactions from the fourth quarter (Q4) to the first quarter (Q1) of the year.
 Avg_Utilization_Ratio: The average ratio of the total revolving balance to the credit limit across all credit card accounts. It is a measure of how much of the available credit the cardholder is using.
-# Analysis
+# Analysis / Dashboard
 ![image](https://github.com/Mizlizzy/Cross-Credit-data-analysis/assets/125541494/de0f1080-2a1b-480c-bb56-44eaa215e867)
+# Recommendation
+Total Transaction Amount: The total transaction amount of 45 million indicates a substantial volume of financial activity. It's essential to continue monitoring this metric to identify trends and patterns in spending behavior.
+Number of Transactions: With 657k transactions, it's clear that there is a significant level of customer engagement and activity. Analyzing transaction types and frequency can help in understanding customer preferences and optimizing services.
+Number of Enquiries: The 25k enquiries suggest that customers are actively seeking information or assistance. Streamlining enquiry handling processes and ensuring timely and accurate responses can enhance customer satisfaction.
+Average Utilization Ratio: An average utilization ratio of 0.27 indicates that customers are utilizing around 27% of their available credit. Monitoring this ratio can help in managing credit risk and offering targeted credit limit adjustments.
+Existing Customer vs. Attrited Customer: With 83.93% existing customers and 16.07% attrited customers, focusing on customer retention strategies is crucial. Offering personalized services, loyalty programs, and proactive communication can help retain existing customers and reduce attrition rates.
+Gender Distribution: The female gender distribution of 52.91% suggests a relatively balanced customer base in terms of gender. Tailoring marketing strategies and product offerings to cater to diverse customer segments can enhance overall customer satisfaction and loyalty.
+The average months on book by card category are as follows: Platinum: The highest average months on book. Blue: The second highest average months on book. Silver: The lowest average months on book.
+This indicates that customers with platinum cards tend to have a longer association or tenure with the card compared to blue and silver cardholders. It's essential to analyze the reasons behind this difference, such as benefits, rewards, and customer satisfaction levels
+In summary, it's recommended to continue monitoring and analyzing these key metrics to identify opportunities for improving customer experience, optimizing services, and driving business growth. Implementing data-driven strategies and personalized approaches can contribute to long-term customer satisfaction and loyalty.
+
+
+
+
+
